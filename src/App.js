@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Learning deployment of react applications.
+          New Changes
         </p>
         <a
           className="App-link"
